@@ -131,9 +131,9 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 120.0, 206.0, 112.0, 22.0 ],
+					"patching_rect" : [ 120.0, 206.0, 119.0, 22.0 ],
 					"style" : "",
-					"text" : "scale 45 300 0 100"
+					"text" : "scale 150 300 0 100"
 				}
 
 			}

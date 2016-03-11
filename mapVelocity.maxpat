@@ -170,7 +170,7 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 210.0, 130.0, 111.0, 20.0 ],
+					"patching_rect" : [ 210.0, 135.0, 111.0, 20.0 ],
 					"text" : "scale 0 100 60 110"
 				}
 
